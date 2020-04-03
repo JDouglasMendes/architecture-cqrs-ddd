@@ -1,0 +1,12 @@
+
+DM.Domain.Shared/bin/
+DM.Domain.Shared/obj/
+.vs/
+DM.Domain/bin/*
+DM.Domain/obj/*
+DM.Infra.Data/bin/*
+DM.Infra.Data/obj/*
+DM.Application/bin/*
+DM.Application/obj/*
+DM.Services.API/bin/*
+DM.Services.API/obj/*
